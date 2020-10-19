@@ -2,7 +2,7 @@ import junit.framework.TestCase;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class StringCaseChangerTest extends TestCase {
+public class    StringCaseChangerTest{
     @Test
     public void stringCaseChanger() {
         StringDrink drink = new StringDrink("aBcD");
